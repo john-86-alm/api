@@ -8,6 +8,7 @@ django = "==5.2.11"
 django-cors-headers = "*"
 djangorestframework = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
